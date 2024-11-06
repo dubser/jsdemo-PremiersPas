@@ -5,5 +5,6 @@ utiliser HTML pour la structure, CSS pour le style, et JavaScript
 
 Ajouter boutons radio et checkbox et insérer objet <div id="ListWindow">
 
+
  C'est l'endroit pour essayer des objets Html et leur animation JS
 
