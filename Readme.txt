@@ -9,12 +9,13 @@ en en faisant des branches Git.
 
 ToDo
 
-Ajouter boutons radio et checkbox 
+Ajouter boutons radio.
 
 Ajouter fabrique de texte Lorem ipsum
 <script....
  src="https://cdn.jsdelivr.net/npm/lorem-ipsum@2.0.4/dist/lorem-ipsum.min.js"></script> <script> // Générer 3 paragraphes de texte Lorem Ipsum const lorem = LoremIpsum({ units: 'paragraphs', paragraphs: 3 }); // Afficher le texte dans un élément HTML avec l'id "my-text" document.getElementById('my-text').textContent = lorem; </script> 
 
-
+Ce module est une collection de controles Html5 & Javascript pour
+démonstration
  
 
