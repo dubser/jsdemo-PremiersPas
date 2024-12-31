@@ -9,8 +9,11 @@ body {
 }
 
 .control-panel {
-    background-color: white;
-    height: 75%;
+    background-color: rgb(228, 229, 219);
+   /* height: 75%; */
+    border: medium solid;
+    border: 2px solid black;
+    border-radius: 5px;
     width: 50%;
     padding: 20px;
     border-radius: 8px;
