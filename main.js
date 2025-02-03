@@ -1,5 +1,6 @@
 // Demo de la classe d'affichage dsply de la librairie util
-import * as util from './utilV1.js';
+//import * as util from './utilV1.js';
+import * as util from 'https://cdn.jsdelivr.net/gh/dubser/jsdemo-common/utilV1.js';
 
 // Instantiation et init de l'affichage 
 const inst_0= new util.dsply("conteneur", {color :'darkblue', width : '40vw', height : '10vh'}); 
